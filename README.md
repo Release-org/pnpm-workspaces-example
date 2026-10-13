@@ -1,6 +1,6 @@
 # PNPM workspaces
 
-Testing pnpm monorepos
+Testing pnpm monorepo
 
 ## Install
 
